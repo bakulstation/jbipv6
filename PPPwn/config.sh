@@ -1,0 +1,11 @@
+#!/bin/bash
+INTERFACE="eth0" 
+FIRMWAREVERSION="11.00" 
+SHUTDOWN=true
+PPPOECONN=false
+PPDBG=
+PYPWN=
+LEDACT="normal"
+OIPV=true
+DTLINK=false
+
